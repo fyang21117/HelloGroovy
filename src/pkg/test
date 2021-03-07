@@ -1,0 +1,20 @@
+//GP的订单信息
+Purchase. Json: {
+"orderId" : "GPA.3358-2471-6239-53536",
+"packageName" : "com.tg.hdqym.gp",
+"productId" : "com.hdqy.6",
+"purchaseTime" : 1600397278774,
+"purchaseState" : 0,
+"purchaseToken" : "hleclkooejadjpgmebnipdae.AO-J1OxPMV8usH4rP6FWQ_NIOh5tEYNEeG49_j1hoYu_6371xsvGdJB45SWy5DplMLlNdCOXr8rQL5CYqNwt1gyQhDkkrLPBSa0g6iD1IPV6CLhzpo6BZ-0",
+"acknowledged" : false
+}
+
+//玩家相关信息：
+gid :
+uid :
+uname :
+price :
+currency :
+
+
+【待定回传接口url】，类似："http://m-api.zzcool.com/sdk/uploadOrder"
